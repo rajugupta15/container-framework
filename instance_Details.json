@@ -1,0 +1,7 @@
+{
+	"backend": {
+		"instance_ip":"192.168.1.2",
+		"service_discovery_type" : "swram",
+		"cluster_type" : "bootstrap"
+	}
+}
